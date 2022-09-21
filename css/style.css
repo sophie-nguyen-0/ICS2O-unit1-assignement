@@ -1,0 +1,39 @@
+/*
+*sophie nguyen
+*sept 21
+*/
+
+body{
+  background-color: #faedcd;
+}
+
+h1{
+  background-color: #fefae0;
+  color: #d4a373;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h2{
+  color: #d4a373;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h3{
+  color: #d4a373;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h4{
+  color: #d4a373;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+img{
+  border: 5px solid #ccd5ae;
+  display: block;
+  margin: auto;
+}
