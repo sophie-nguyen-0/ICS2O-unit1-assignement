@@ -37,3 +37,8 @@ img {
   display: block;
   margin: auto;
 }
+
+p{
+  color: #d4a373;
+  font-family: sans-serif;
+}
